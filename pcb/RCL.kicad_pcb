@@ -1354,7 +1354,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1367,7 +1367,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Fiducial Marker"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1380,11 +1380,37 @@
 				)
 			)
 		)
+		(property "Vendor" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4bb22d41-ff5a-4a5d-a7bd-01050e35c937")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "VendorId" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3742e2e5-7ab0-41bf-a521-71b22f119171")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/c5b90f24-f98d-4c27-a3a4-aaaa19a5d63a")
 		(sheetname "/")
 		(sheetfile "RCL.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+		(attr exclude_from_pos_files allow_missing_courtyard)
 		(fp_poly
 			(pts
 				(xy 2.6526 1.958752) (xy 2.669948 1.966334) (xy 2.711356 1.999128) (xy 2.746765 2.046547) (xy 2.768664 2.097151)
@@ -10459,7 +10485,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10473,7 +10499,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Fiducial Marker"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10487,11 +10513,39 @@
 				(justify mirror)
 			)
 		)
+		(property "Vendor" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "37c6ee7f-7997-4bc0-abeb-8a8022d40868")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "VendorId" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f34d8fe7-584e-4824-b018-5db88df7cb8f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/e51e897a-426d-4c92-b6b6-ef107b6c9b58")
 		(sheetname "/")
 		(sheetfile "RCL.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+		(attr exclude_from_pos_files allow_missing_courtyard)
 		(fp_poly
 			(pts
 				(xy 1.987528 -0.234619) (xy 1.998908 -0.253693) (xy 2.024488 -0.297421) (xy 2.063002 -0.363619)
@@ -11787,7 +11841,7 @@
 				)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Vendor" "HTL, DigiKey"
 			(at 291.782 162.56 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -11800,7 +11854,7 @@
 				(justify mirror)
 			)
 		)
-		(property "VendorId" "103599"
+		(property "VendorId" "103599, BC2AAAW-ND, 455-2266-ND, BXH-001T-P0.6-ND"
 			(at 291.782 162.56 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -12725,7 +12779,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12739,7 +12793,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Fiducial Marker"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12753,11 +12807,39 @@
 				(justify mirror)
 			)
 		)
+		(property "Vendor" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "210ebb9e-64ef-4505-a2e1-319c026335a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "VendorId" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d6d60cac-98cb-4856-8c42-6cc2bc5d64e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/a25a76cf-ffc3-46c0-8257-a0157f5ab0d2")
 		(sheetname "/")
 		(sheetfile "RCL.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+		(attr exclude_from_pos_files allow_missing_courtyard)
 		(fp_poly
 			(pts
 				(xy 1.729339 -2.992414) (xy -1.766223 -2.992414) (xy -1.766223 -2.141218) (xy 1.729339 -2.141218)

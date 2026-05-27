@@ -9798,7 +9798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "100140"
 			(at 137.16 46.99 0)
 			(effects
 				(font
@@ -9807,7 +9807,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100140"
+		(property "DigiKey" ""
 			(at 137.16 46.99 0)
 			(effects
 				(font
@@ -9887,6 +9887,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 130.81 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9de41f11-f9d1-4af6-85b5-5e39704ab994")
 		)
@@ -9952,8 +9961,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 165.1 48.26 0)
+		(property "HTL" "102951"
+			(at 165.1 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9961,8 +9970,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102951"
-			(at 165.1 48.26 0)
+		(property "DigiKey" ""
+			(at 165.1 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10039,7 +10048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103615"
 			(at 198.12 106.68 0)
 			(effects
 				(font
@@ -10048,7 +10057,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103615"
+		(property "DigiKey" ""
 			(at 198.12 106.68 0)
 			(effects
 				(font
@@ -10163,7 +10172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "100140"
 			(at 115.57 46.99 0)
 			(effects
 				(font
@@ -10172,7 +10181,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100140"
+		(property "DigiKey" ""
 			(at 115.57 46.99 0)
 			(effects
 				(font
@@ -10315,8 +10324,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 124.46 50.8 0)
+		(property "HTL" "103598"
+			(at 124.46 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10324,8 +10333,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103598"
-			(at 124.46 50.8 0)
+		(property "DigiKey" ""
+			(at 124.46 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10401,8 +10410,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 208.28 46.99 0)
+		(property "HTL" "103602"
+			(at 208.28 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10410,8 +10419,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103602"
-			(at 208.28 46.99 0)
+		(property "DigiKey" ""
+			(at 208.28 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10618,8 +10627,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 52.07 152.4 0)
+		(property "HTL" "100128"
+			(at 52.07 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10627,8 +10636,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
-			(at 52.07 152.4 0)
+		(property "DigiKey" ""
+			(at 52.07 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10704,8 +10713,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 158.75 152.4 0)
+		(property "HTL" "100128"
+			(at 158.75 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10713,8 +10722,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
-			(at 158.75 152.4 0)
+		(property "DigiKey" ""
+			(at 158.75 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10790,8 +10799,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 140.97 152.4 0)
+		(property "HTL" "100128"
+			(at 140.97 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10799,8 +10808,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
-			(at 140.97 152.4 0)
+		(property "DigiKey" ""
+			(at 140.97 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10878,8 +10887,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 181.61 134.62 0)
+		(property "HTL" "103512"
+			(at 181.61 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10887,8 +10896,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103512"
-			(at 181.61 134.62 0)
+		(property "DigiKey" ""
+			(at 181.61 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11036,7 +11045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103607"
 			(at 29.21 161.29 0)
 			(effects
 				(font
@@ -11045,7 +11054,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103607"
+		(property "DigiKey" ""
 			(at 29.21 161.29 0)
 			(effects
 				(font
@@ -11135,7 +11144,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103620"
 			(at 22.86 105.41 0)
 			(effects
 				(font
@@ -11144,7 +11153,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103620"
+		(property "DigiKey" ""
 			(at 22.86 105.41 0)
 			(effects
 				(font
@@ -11286,8 +11295,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 105.41 57.15 0)
+		(property "HTL" "102951"
+			(at 105.41 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11295,8 +11304,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102951"
-			(at 105.41 57.15 0)
+		(property "DigiKey" ""
+			(at 105.41 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11506,6 +11515,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 203.2 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "48fd6cb3-f06a-451e-b0c6-ce0a65668a4e")
 		)
@@ -11575,7 +11593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103607"
 			(at 100.33 161.29 0)
 			(effects
 				(font
@@ -11584,7 +11602,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103607"
+		(property "DigiKey" ""
 			(at 100.33 161.29 0)
 			(effects
 				(font
@@ -11675,7 +11693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "100128"
 			(at 35.56 105.41 0)
 			(effects
 				(font
@@ -11684,7 +11702,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "DigiKey" ""
 			(at 35.56 105.41 0)
 			(effects
 				(font
@@ -11760,8 +11778,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 52.07 36.83 0)
+		(property "HTL" "102962"
+			(at 52.07 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11769,8 +11787,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102962"
-			(at 52.07 36.83 0)
+		(property "DigiKey" ""
+			(at 52.07 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11911,8 +11929,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 143.51 29.21 0)
+		(property "HTL" "100140"
+			(at 143.51 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11920,8 +11938,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100140"
-			(at 143.51 29.21 0)
+		(property "DigiKey" ""
+			(at 143.51 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11999,8 +12017,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 59.69 125.73 0)
+		(property "HTL" "103512"
+			(at 59.69 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12008,8 +12026,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103512"
-			(at 59.69 125.73 0)
+		(property "DigiKey" ""
+			(at 59.69 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12087,7 +12105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103605"
 			(at 93.98 46.99 0)
 			(effects
 				(font
@@ -12096,7 +12114,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103605"
+		(property "DigiKey" ""
 			(at 93.98 46.99 0)
 			(effects
 				(font
@@ -12197,7 +12215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103603"
 			(at 175.26 50.8 0)
 			(effects
 				(font
@@ -12206,7 +12224,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103603"
+		(property "DigiKey" ""
 			(at 175.26 50.8 0)
 			(effects
 				(font
@@ -12613,7 +12631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "DigiKey"
+		(property "HTL" ""
 			(at 104.14 118.11 0)
 			(effects
 				(font
@@ -12622,7 +12640,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "150-MCP2221AT-I/SLCT-ND"
+		(property "DigiKey" "150-MCP2221AT-I/SLCT-ND"
 			(at 104.14 118.11 0)
 			(effects
 				(font
@@ -12799,8 +12817,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 233.68 87.63 0)
+		(property "HTL" "102959"
+			(at 233.68 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12808,8 +12826,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102959"
-			(at 233.68 87.63 0)
+		(property "DigiKey" ""
+			(at 233.68 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12884,7 +12902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103572"
 			(at 31.75 44.45 0)
 			(effects
 				(font
@@ -12893,7 +12911,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103572"
+		(property "DigiKey" ""
 			(at 31.75 44.45 0)
 			(effects
 				(font
@@ -13019,7 +13037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103607"
 			(at 46.99 161.29 0)
 			(effects
 				(font
@@ -13028,7 +13046,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103607"
+		(property "DigiKey" ""
 			(at 46.99 161.29 0)
 			(effects
 				(font
@@ -13120,8 +13138,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 62.23 107.95 0)
+		(property "HTL" "103512"
+			(at 62.23 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13129,8 +13147,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103512"
-			(at 62.23 107.95 0)
+		(property "DigiKey" ""
+			(at 62.23 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13209,7 +13227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103360"
 			(at 137.16 35.56 0)
 			(effects
 				(font
@@ -13218,7 +13236,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103360"
+		(property "DigiKey" ""
 			(at 137.16 35.56 0)
 			(effects
 				(font
@@ -13360,8 +13378,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 127 93.98 0)
+		(property "HTL" "102951"
+			(at 127 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13369,8 +13387,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102951"
-			(at 127 93.98 0)
+		(property "DigiKey" ""
+			(at 127 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13445,8 +13463,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 120.65 125.73 0)
+		(property "HTL" "102944"
+			(at 120.65 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13454,8 +13472,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102944"
-			(at 120.65 125.73 0)
+		(property "DigiKey" ""
+			(at 120.65 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13531,25 +13549,25 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 191.77 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VendorId" "100458"
-			(at 191.77 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 191.77 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HTL" "100458"
+			(at 191.77 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 191.77 137.16 0)
 			(effects
 				(font
@@ -13756,8 +13774,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 73.66 66.04 0)
+		(property "HTL" "102944"
+			(at 73.66 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13765,8 +13783,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102944"
-			(at 73.66 66.04 0)
+		(property "DigiKey" ""
+			(at 73.66 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13844,7 +13862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103616"
 			(at 250.19 99.06 0)
 			(effects
 				(font
@@ -13853,7 +13871,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103616"
+		(property "DigiKey" ""
 			(at 250.19 99.06 0)
 			(effects
 				(font
@@ -13948,8 +13966,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 69.85 152.4 0)
+		(property "HTL" "100128"
+			(at 69.85 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13957,8 +13975,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
-			(at 69.85 152.4 0)
+		(property "DigiKey" ""
+			(at 69.85 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14101,8 +14119,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 59.69 29.21 0)
+		(property "HTL" "103570"
+			(at 59.69 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14110,8 +14128,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103570"
-			(at 59.69 29.21 0)
+		(property "DigiKey" ""
+			(at 59.69 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14188,8 +14206,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 255.27 129.54 0)
+		(property "HTL" "101546"
+			(at 255.27 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14197,8 +14215,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "101546"
-			(at 255.27 129.54 0)
+		(property "DigiKey" ""
+			(at 255.27 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14366,8 +14384,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 135.89 93.98 0)
+		(property "HTL" "100206"
+			(at 135.89 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14375,8 +14393,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100206"
-			(at 135.89 93.98 0)
+		(property "DigiKey" ""
+			(at 135.89 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14456,7 +14474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103607"
 			(at 82.55 161.29 0)
 			(effects
 				(font
@@ -14465,7 +14483,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103607"
+		(property "DigiKey" ""
 			(at 82.55 161.29 0)
 			(effects
 				(font
@@ -14622,7 +14640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "100128"
 			(at 243.84 48.26 0)
 			(effects
 				(font
@@ -14631,7 +14649,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "DigiKey" ""
 			(at 243.84 48.26 0)
 			(effects
 				(font
@@ -14707,8 +14725,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 200.66 137.16 0)
+		(property "HTL" "102940"
+			(at 200.66 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14716,8 +14734,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102940"
-			(at 200.66 137.16 0)
+		(property "DigiKey" ""
+			(at 200.66 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14924,8 +14942,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 76.2 41.91 0)
+		(property "HTL" "100128"
+			(at 76.2 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14933,8 +14951,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
-			(at 76.2 41.91 0)
+		(property "DigiKey" ""
+			(at 76.2 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15014,7 +15032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103607"
 			(at 153.67 161.29 0)
 			(effects
 				(font
@@ -15023,7 +15041,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103607"
+		(property "DigiKey" ""
 			(at 153.67 161.29 0)
 			(effects
 				(font
@@ -15307,8 +15325,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 162.56 106.68 0)
+		(property "HTL" "102967"
+			(at 162.56 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15316,8 +15334,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102967"
-			(at 162.56 106.68 0)
+		(property "DigiKey" ""
+			(at 162.56 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15393,8 +15411,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 87.63 152.4 0)
+		(property "HTL" "100128"
+			(at 87.63 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15402,8 +15420,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
-			(at 87.63 152.4 0)
+		(property "DigiKey" ""
+			(at 87.63 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15613,7 +15631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103607"
 			(at 118.11 161.29 0)
 			(effects
 				(font
@@ -15622,7 +15640,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103607"
+		(property "DigiKey" ""
 			(at 118.11 161.29 0)
 			(effects
 				(font
@@ -15842,8 +15860,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 130.81 39.37 0)
+		(property "HTL" "103601"
+			(at 130.81 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15851,8 +15869,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103601"
-			(at 130.81 39.37 0)
+		(property "DigiKey" ""
+			(at 130.81 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15934,8 +15952,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 139.7 113.03 0)
+		(property "HTL" "102973"
+			(at 139.7 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15943,8 +15961,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102973"
-			(at 139.7 113.03 0)
+		(property "DigiKey" ""
+			(at 139.7 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16150,8 +16168,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "DigiKey"
-			(at 82.55 118.11 0)
+		(property "HTL" ""
+			(at 82.55 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16159,8 +16177,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "RMCF0603ZT0R00CT-ND"
-			(at 82.55 118.11 0)
+		(property "DigiKey" "RMCF0603ZT0R00CT-ND"
+			(at 82.55 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16238,8 +16256,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 245.11 149.86 0)
+		(property "HTL" "101017, 101382"
+			(at 245.11 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16247,8 +16265,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "101017, 101382"
-			(at 245.11 149.86 0)
+		(property "DigiKey" ""
+			(at 245.11 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16452,8 +16470,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 191.77 41.91 0)
+		(property "HTL" "103600"
+			(at 191.77 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16461,8 +16479,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103600"
-			(at 191.77 41.91 0)
+		(property "DigiKey" ""
+			(at 191.77 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16736,7 +16754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "100140"
 			(at 219.71 48.26 0)
 			(effects
 				(font
@@ -16745,7 +16763,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100140"
+		(property "DigiKey" ""
 			(at 219.71 48.26 0)
 			(effects
 				(font
@@ -16888,8 +16906,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 123.19 152.4 0)
+		(property "HTL" "100128"
+			(at 123.19 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16897,8 +16915,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
-			(at 123.19 152.4 0)
+		(property "DigiKey" ""
+			(at 123.19 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17039,8 +17057,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 208.28 59.69 0)
+		(property "HTL" "102987"
+			(at 208.28 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17048,8 +17066,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102987"
-			(at 208.28 59.69 0)
+		(property "DigiKey" ""
+			(at 208.28 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17124,8 +17142,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 120.65 120.65 0)
+		(property "HTL" "102944"
+			(at 120.65 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17133,8 +17151,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102944"
-			(at 120.65 120.65 0)
+		(property "DigiKey" ""
+			(at 120.65 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17209,8 +17227,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "DigiKey"
-			(at 82.55 115.57 0)
+		(property "HTL" ""
+			(at 82.55 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17218,8 +17236,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "RMCF0603ZT0R00CT-ND"
-			(at 82.55 115.57 0)
+		(property "DigiKey" "RMCF0603ZT0R00CT-ND"
+			(at 82.55 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17442,7 +17460,7 @@
 		(at 195.58 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a25a76cf-ffc3-46c0-8257-a0157f5ab0d2")
@@ -17491,17 +17509,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" ""
-			(at 195.58 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VendorId" ""
-			(at 195.58 152.4 0)
+		(property "DigiKey" ""
+			(at 195.58 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17573,8 +17582,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 132.08 104.14 0)
+		(property "HTL" "103604"
+			(at 132.08 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17582,8 +17591,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103604"
-			(at 132.08 104.14 0)
+		(property "DigiKey" ""
+			(at 132.08 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17733,6 +17742,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" ""
+			(at 125.73 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "97de485f-0579-481b-94b9-4e7ed94c6a90")
 		)
@@ -17868,7 +17886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103607"
 			(at 64.77 161.29 0)
 			(effects
 				(font
@@ -17877,7 +17895,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103607"
+		(property "DigiKey" ""
 			(at 64.77 161.29 0)
 			(effects
 				(font
@@ -17961,6 +17979,15 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 160.02 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 160.02 40.64 0)
 			(effects
 				(font
@@ -18229,8 +18256,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 237.49 87.63 0)
+		(property "HTL" "102959"
+			(at 237.49 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18238,8 +18265,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102959"
-			(at 237.49 87.63 0)
+		(property "DigiKey" ""
+			(at 237.49 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18643,7 +18670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103606"
 			(at 191.77 50.8 0)
 			(effects
 				(font
@@ -18652,7 +18679,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103606"
+		(property "DigiKey" ""
 			(at 191.77 50.8 0)
 			(effects
 				(font
@@ -18740,8 +18767,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 146.05 96.52 0)
+		(property "HTL" "102944"
+			(at 146.05 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18749,8 +18776,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102944"
-			(at 146.05 96.52 0)
+		(property "DigiKey" ""
+			(at 146.05 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18958,8 +18985,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 111.76 99.06 0)
+		(property "HTL" "100128"
+			(at 111.76 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18967,8 +18994,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
-			(at 111.76 99.06 0)
+		(property "DigiKey" ""
+			(at 111.76 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19044,8 +19071,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 91.44 100.33 0)
+		(property "HTL" "102951"
+			(at 91.44 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19053,8 +19080,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102951"
-			(at 91.44 100.33 0)
+		(property "DigiKey" ""
+			(at 91.44 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19197,7 +19224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "100128"
 			(at 148.59 46.99 0)
 			(effects
 				(font
@@ -19206,7 +19233,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "DigiKey" ""
 			(at 148.59 46.99 0)
 			(effects
 				(font
@@ -19366,7 +19393,7 @@
 		(at 207.01 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c5b90f24-f98d-4c27-a3a4-aaaa19a5d63a")
@@ -19415,17 +19442,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" ""
-			(at 207.01 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VendorId" ""
-			(at 207.01 152.4 0)
+		(property "DigiKey" ""
+			(at 207.01 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19564,7 +19582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "103607"
 			(at 135.89 161.29 0)
 			(effects
 				(font
@@ -19573,7 +19591,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103607"
+		(property "DigiKey" ""
 			(at 135.89 161.29 0)
 			(effects
 				(font
@@ -19730,7 +19748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL, DigiKey"
+		(property "HTL" "103599"
 			(at 124.46 62.23 0)
 			(effects
 				(font
@@ -19739,7 +19757,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103599, BC2AAAW-ND, 455-2266-ND, BXH-001T-P0.6-ND"
+		(property "DigiKey" "BC2AAAW-ND, 455-2266-ND, BXH-001T-P0.6-ND"
 			(at 124.46 62.23 0)
 			(effects
 				(font
@@ -20079,7 +20097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "100128"
 			(at 256.54 48.26 0)
 			(effects
 				(font
@@ -20088,7 +20106,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "DigiKey" ""
 			(at 256.54 48.26 0)
 			(effects
 				(font
@@ -20230,8 +20248,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 57.15 116.84 0)
+		(property "HTL" "102951"
+			(at 57.15 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20239,8 +20257,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102951"
-			(at 57.15 116.84 0)
+		(property "DigiKey" ""
+			(at 57.15 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20577,8 +20595,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 269.24 48.26 0)
+		(property "HTL" "100194"
+			(at 269.24 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20586,8 +20604,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100194"
-			(at 269.24 48.26 0)
+		(property "DigiKey" ""
+			(at 269.24 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20812,7 +20830,7 @@
 		(at 232.41 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d88aef67-dcec-473b-acb3-b7f5fe1066d3")
@@ -20861,17 +20879,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" ""
-			(at 232.41 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VendorId" ""
-			(at 232.41 152.4 0)
+		(property "DigiKey" ""
+			(at 232.41 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21136,8 +21145,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 139.7 115.57 0)
+		(property "HTL" "102973"
+			(at 139.7 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21145,8 +21154,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102973"
-			(at 139.7 115.57 0)
+		(property "DigiKey" ""
+			(at 139.7 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21288,8 +21297,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 76.2 29.21 0)
+		(property "HTL" "103597"
+			(at 76.2 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21297,8 +21306,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103597"
-			(at 76.2 29.21 0)
+		(property "DigiKey" ""
+			(at 76.2 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21326,7 +21335,7 @@
 		(at 219.71 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e51e897a-426d-4c92-b6b6-ef107b6c9b58")
@@ -21375,17 +21384,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" ""
-			(at 219.71 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VendorId" ""
-			(at 219.71 152.4 0)
+		(property "DigiKey" ""
+			(at 219.71 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21455,8 +21455,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 82.55 57.15 0)
+		(property "HTL" "102951"
+			(at 82.55 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21464,8 +21464,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102951"
-			(at 82.55 57.15 0)
+		(property "DigiKey" ""
+			(at 82.55 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21541,8 +21541,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 105.41 152.4 0)
+		(property "HTL" "100128"
+			(at 105.41 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21550,8 +21550,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
-			(at 105.41 152.4 0)
+		(property "DigiKey" ""
+			(at 105.41 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21628,7 +21628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "100128"
 			(at 231.14 48.26 0)
 			(effects
 				(font
@@ -21637,7 +21637,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "DigiKey" ""
 			(at 231.14 48.26 0)
 			(effects
 				(font
@@ -21781,25 +21781,25 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 73.66 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VendorId" "100458"
-			(at 73.66 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 73.66 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HTL" "100458"
+			(at 73.66 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 73.66 57.15 0)
 			(effects
 				(font
@@ -21876,8 +21876,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 109.22 57.15 0)
+		(property "HTL" "102967"
+			(at 109.22 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21885,8 +21885,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102967"
-			(at 109.22 57.15 0)
+		(property "DigiKey" ""
+			(at 109.22 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21964,25 +21964,25 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 130.81 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VendorId" "100459"
-			(at 130.81 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 130.81 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HTL" "100459"
+			(at 130.81 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 130.81 125.73 0)
 			(effects
 				(font
@@ -22060,7 +22060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "HTL" "101612"
 			(at 162.56 118.11 0)
 			(effects
 				(font
@@ -22069,7 +22069,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "101612"
+		(property "DigiKey" ""
 			(at 162.56 118.11 0)
 			(effects
 				(font
@@ -22146,8 +22146,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 34.29 152.4 0)
+		(property "HTL" "100128"
+			(at 34.29 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22155,8 +22155,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
-			(at 34.29 152.4 0)
+		(property "DigiKey" ""
+			(at 34.29 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22231,8 +22231,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 52.07 34.29 0)
+		(property "HTL" "102962"
+			(at 52.07 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22240,8 +22240,8 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102962"
-			(at 52.07 34.29 0)
+		(property "DigiKey" ""
+			(at 52.07 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22319,25 +22319,25 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 130.81 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VendorId" "100458"
-			(at 130.81 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 130.81 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HTL" "100458"
+			(at 130.81 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 130.81 120.65 0)
 			(effects
 				(font

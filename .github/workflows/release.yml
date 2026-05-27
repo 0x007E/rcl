@@ -1,4 +1,4 @@
-name: CLA Release Pipeline
+name: RCL Release Pipeline
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
 jobs:
   export-kicad:
     env:
-      BaseFileName: "CLA"
+      BaseFileName: "RCL"
       Folder: "./pcb"
       SchematicFileExtension: "kicad_sch"
       PCBFileExtension: "kicad_pcb"
@@ -114,7 +114,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./artifact/kicad/schematic/CLA-schematic.pdf
+        asset_path: ./artifact/kicad/schematic/RCL-schematic.pdf
         asset_name: schematic.pdf
         asset_content_type: application/pdf
 
@@ -154,9 +154,29 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./artifact/kicad/drill/CLA-drill_map.pdf
+        asset_path: ./artifact/kicad/drill/RCL-drill_map.pdf
         asset_name: drill.pdf
         asset_content_type: application/pdf
+    
+    - name: Upload KiCAD BOM
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./artifact/kicad/bom/RCL-bom.xlsx
+        asset_name: bom.xlsx
+        asset_content_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+    
+    - name: Upload KiCAD iBOM
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./artifact/kicad/ibom/IBOM.html
+        asset_name: bom.html
+        asset_content_type: text/html
 
     - name: Upload KiCAD Asset
       uses: actions/upload-release-asset@v1

@@ -2,11 +2,14 @@
 
 # `RCL` - RGB Color Lamp
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/0x007E/rcl)
+
 The `RCL` is a board with a set of [APA102](#additional-information) or any other `SPI` controllable `RGB-LED`. The board itself is driven with `5V` over USB and can be configured with the integrated UART interface ([MCP2221A](#additional-information)). The `Color Lamp` itself is controlled over the additional `Touchpad` ([TPD](https://github.com/0x007e/tpd/)) and can be switched on/off over a slide switch.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
 | Soldering   | ![?%](https://progress-bar.xyz/45?progress_color=0000ff&suffix=%20Medium&width=120) |
+| Mechanical  | ![?%](https://progress-bar.xyz/50?progress_color=00ff00&suffix=%20Medium&width=120) |
 
 # Downloads
 

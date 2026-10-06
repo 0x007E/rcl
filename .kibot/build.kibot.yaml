@@ -55,6 +55,7 @@ outputs:
         - Row
         - References
         - Footprint
+        - Value
         - field: HTL
           name: HTL
         - field: DigiKey
